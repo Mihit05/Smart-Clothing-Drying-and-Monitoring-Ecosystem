@@ -1,7 +1,14 @@
 # Smart Clothing Drying & Monitoring System
 
 ## Overview
-An IoT-based system that automates clothes drying using weather prediction and remote control.
+An IoT-based system that automates clothes drying using real-time sensor data, cloud integration, and machine learning-based weather prediction.
+
+## Key Highlights
+- ESP32-based embedded system
+- Cloud communication via Google Apps Script
+- Real-time monitoring using Google Sheets
+- ML-based rainfall prediction
+- Automated servo control (fold/unfold mechanism)
 
 ## System Architecture
 
