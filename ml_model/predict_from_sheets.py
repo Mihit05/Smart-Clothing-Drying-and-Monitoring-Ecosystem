@@ -7,7 +7,7 @@ from google.oauth2.service_account import Credentials
 
 # ====== FILL THESE ======
 SERVICE_ACCOUNT_FILE = "service_account.json"   # your downloaded key
-SPREADSHEET_ID = "1DG2cQOaeAbh9hBR3jYGkAghlE4CFJJmY2Jsjx0mQIm0"       # from sheet URL /d/<ID>/
+SPREADSHEET_ID = "YOUR_SHEETS_ID"       # from sheet URL /d/<ID>/
 SHEET_NAME = "Sheet1"                           # tab name
 MODEL_PATH = "model.joblib"                     # trained pipeline
 POLL_SECONDS = 20                               # poll frequency
